@@ -1,4 +1,4 @@
-# ⭐ Introduction
+# 📝 Introduction
 
 GitHub special repository for organization.
 
