@@ -1,8 +1,8 @@
-# ⭐ Himpun: .github
+# ⭐ Introduction
 
 GitHub special repository for organization.
 
-## ⚖️ Legal
+# ⚖️ Legal
 
 ```
 MIT License
